@@ -1,0 +1,12 @@
+.ride-home{
+    background: url(../../images/Bg.jpg) ;
+    background-position:center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+
+}
+
+.card-back{
+    background-color: #6a9cc5;
+}

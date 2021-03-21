@@ -1,0 +1,18 @@
+[{
+    "id": "0",
+    "rideName": "BIKE",
+    "image":"https://i.ibb.co/jwqqgZ3/Motorcycle-Motor-Bike-Vehicle-Side-View-Flat-Vector-Illustration-on-White-Background.jpg"
+  }, {
+    "id": "1",
+    "rideName": "PLANE",
+    "image":"https://i.ibb.co/8MyDXDN/White-jet-engine-airplane-102886-63.jpg"
+  }, {
+    "id": "2",
+    "rideName": "CAR",
+    "image":"https://i.ibb.co/H7dYyVp/car-4976438.jpg" 
+  }, {
+    "id": "3",
+    "rideName": "TRUCK",
+    "image":"https://i.ibb.co/Z86HG6t/truck-web-29718.png" 
+
+  }]
